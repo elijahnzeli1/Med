@@ -1,0 +1,17 @@
+{
+  "app_name": "MedConnect",
+  "login": "Iniciar sesión",
+  "signup": "Registrarse",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "name": "Nombre",
+  "home": "Inicio",
+  "appointments": "Citas",
+  "consultations": "Consultas",
+  "profile": "Perfil",
+  "emr": "Historial Médico Electrónico",
+  "symptom_checker": "Verificador de Síntomas",
+  "notifications": "Notificaciones",
+  "settings": "Configuración",
+  "logout": "Cerrar sesión"
+}

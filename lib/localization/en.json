@@ -1,0 +1,17 @@
+{
+  "app_name": "MedConnect",
+  "login": "Login",
+  "signup": "Sign Up",
+  "email": "Email",
+  "password": "Password",
+  "name": "Name",
+  "home": "Home",
+  "appointments": "Appointments",
+  "consultations": "Consultations",
+  "profile": "Profile",
+  "emr": "Electronic Medical Record",
+  "symptom_checker": "Symptom Checker",
+  "notifications": "Notifications",
+  "settings": "Settings",
+  "logout": "Logout"
+}
